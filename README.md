@@ -30,11 +30,13 @@ To get started with the project locally, follow these steps:
 2. **Navigate into the project directory:**
    ```
    cd react-world-tour
-3.**Install dependencies:**
-   ```npm install```
-4.**Start the development server:**
-   ```npm run dev```
-5.**Open your browser and visit**
+3. **Install dependencies:**
+   ```
+   npm install
+4. **Start the development server:**
+   ```
+   npm run dev
+5. **Open your browser and visit**
 
 
 
