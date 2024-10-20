@@ -25,7 +25,8 @@ To get started with the project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/react-world-tour.git```
+   git clone https://github.com/yourusername/react-world-tour.git
+   
 2. **Navigate into the project directory:**
    ```cd react-world-tour```
 3.**Install dependencies:**
